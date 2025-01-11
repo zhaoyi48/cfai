@@ -1,0 +1,11 @@
+{
+    "domain": "cfai",
+    "name": "cfai",
+    "documentation": "https://github.com/zhaoyi48/cfai",
+    "issue_tracker": "https://github.com/zhaoyi48/cfai/issues",
+    "dependencies": [],
+    "config_flow": true,
+    "codeowners": ["@zhaoyi48"],
+    "requirements": []
+  }
+  
