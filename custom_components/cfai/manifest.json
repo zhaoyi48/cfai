@@ -1,11 +1,10 @@
 {
     "domain": "cfai",
     "name": "cfai",
-    "after_dependencies": ["assist_pipeline", "intent"],
     "codeowners": ["@zhaoyi48"],
-    "config_flow": true,
-    "dependencies": ["conversation"],
+    "dependencies": [],
     "documentation": "https://github.com/zhaoyi48/cfai",
-    "integration_type": "service",
-    "iot_class": "local_polling"
-  }
+    "integration_type": "hub",
+    "iot_class": "cloud_polling",
+    "requirements": []
+}
